@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: KCOxO.github.io/Roadmap
+  baseUrl: https://KCOxO.github.io/Roadmap
   ignorePatterns:
     - private
     - templates
@@ -143,7 +143,7 @@ plugins:
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
@@ -225,7 +225,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
+        GitHub: https://github.com/KCOxO/Roadmap
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: "@quartz-community/recent-notes"
     enabled: false
