@@ -20,3 +20,7 @@ quartz-blog
    +-- .git
        |
        +-- origin → KCOxO/Roadmap
+
+
+git clone https://github.com/jackyzha0/quartz.git . %%透過git直接下到當前資料夾，所以要改repository%%
+
